@@ -2,7 +2,7 @@ import whisper
 import ollama
 
 # INDIQUE O SEU ARQUIVO AQUI (Substitua pelo caminho do seu áudio)
-ARQUIVO_AUDIO = "audio.mp3"
+ARQUIVO_AUDIO = "audio_comedia_whatsapp.mp3"
 
 # ==========================================
 # PASSO 1: Transcrição com Whisper
