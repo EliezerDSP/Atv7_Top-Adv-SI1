@@ -2,7 +2,7 @@
 
 Este projeto implementa um pipeline automatizado em Python que recebe um arquivo de áudio (como `.mp3` ou `.wav`), realiza a transcrição completa do conteúdo utilizando o **OpenAI Whisper**, e em seguida processa o texto gerado com o **Ollama (Llama 3.2:1b)** para extrair um resumo e os principais pontos-chave.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Python 3.10+**
 * **OpenAI Whisper:** Para transcrição de áudio local de alta precisão.
@@ -11,7 +11,7 @@ Este projeto implementa um pipeline automatizado em Python que recebe um arquivo
 
 ---
 
-## 📦 Instalação e Configuração
+## Instalação e Configuração
 
 ### 1. Pré-requisitos do Sistema
 
